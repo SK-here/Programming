@@ -11,7 +11,9 @@ This Direcrtory is used to
 
 Source code & various related file to 
 the programming for diffrent 
-programming languages
+programming languages can be found here.
 
 Thanks,
-SK
+> Saksham Trivedi 
+ aka
+> SK
