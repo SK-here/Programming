@@ -82,11 +82,11 @@ Scroll Notebook down.
 
 Open commannd palette.
 > p
- 
-# Note: This Dialagoue let you run any command by name. It's really  
-# useful when you don't know some shortcuts or when you don't have a 
-# shortcut for the wanted operation.                                
 
+-------------------------------------------------------------------------- 
+> Note: This Dialagoue let you run any command by name. It's really  
+> useful when you don't know some shortcuts or when you don't have a 
+> shortcut for the wanted operation.                                
 --------------------------------------------------------------------------
 
 
@@ -136,15 +136,14 @@ Open Command Palette.
 Cursor Navigation.
 > Up & Down 
 
-# Note: You can add custom shortcuts by navigating to...            
-# Help > Edit Keyboard Shortcuts (It will open a dialog Box)       
-# use hyphens '-' to represent & seperate keys, pressed at a time 
-
+--------------------------------------------------------------------------
+> Note: You can add custom shortcuts by navigating to...            
+> Help > Edit Keyboard Shortcuts (It will open a dialog Box)       
+> use hyphens '-' to represent & seperate keys, pressed at a time 
 --------------------------------------------------------------------------
 
 > Disclaimer: Above Shortcuts can be used with Mac Systems also if you are 
 familiar with the keyboard mapping compared to Windows systems.
-
 
 Thanks,
 > SK
