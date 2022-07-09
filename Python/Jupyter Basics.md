@@ -1,3 +1,6 @@
+@author: SK
+@email: trivedisaksham@gmail.com
+--------------------------------------------------------------------------
 Below are few basic Jupyter Keyboard shortcuts
 Theese shortcuts are majorly focused towards,
 > Linux Systems & Windows Systems
@@ -146,4 +149,4 @@ Cursor Navigation.
 familiar with the keyboard mapping compared to Windows systems.
 
 Thanks,
-> SK
+> Sasham Trivedi (SK)
