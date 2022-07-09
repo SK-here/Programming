@@ -8,9 +8,10 @@
 >> familiar with the keyboard mapping compared to Windows systems.
 -------------------------------------------------------------------------
 
-Jupyter Has two modes i.e. 
-
-> Command Mode & Edit Mode
+##### Jupyter Has two modes 
+i.e. 
+ - Command Mode
+ - Edit Mode
 
 --------------------------------------------------------------------------
 
