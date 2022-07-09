@@ -21,14 +21,12 @@ First We will talk about shortcuts in both mode
 
 --------------------------------------------------------------------------
 
-# Now, Command Mode 
-
-> ( Press 'ESC' to activate)
+# Now, Command Mode  ( Press 'ESC' to activate)
 
 To take you into edit mode.
 > Enter
 
-show all shortcut.
+Show all shortcut.
 > H  
 
 Select cell above.
