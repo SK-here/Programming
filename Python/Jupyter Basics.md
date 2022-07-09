@@ -1,7 +1,6 @@
 - @Author: Saksham Trivedi (**SK**)
---------------------------------------------------------------------------
-> ### Jupyter Keyboard shortcuts
-> ##### Theese shortcuts are majorly focused towards,
+ ### Jupyter Keyboard shortcuts
+ ##### Theese shortcuts are majorly focused towards,
 > - Linux Systems 
 > - Windows Systems
 >> Disclaimer: Above Shortcuts can be used with Mac Systems also if you are 
@@ -89,10 +88,10 @@ Scroll Notebook down.
 Open commannd palette.
 > p
 
--------------------------------------------------------------------------- 
 > Note: This Dialagoue let you run any command by name. It's really  
 > useful when you don't know some shortcuts or when you don't have a 
-> shortcut for the wanted operation.                                
+> shortcut for the wanted operation.
+                                
 --------------------------------------------------------------------------
 
 #### Now, Edit mode (Press 'ENTER' to activate)
@@ -142,10 +141,10 @@ Cursor Navigation.
 > Up & Down 
 
 --------------------------------------------------------------------------
-> Note: You can add custom shortcuts by navigating to...            
-> Help > Edit Keyboard Shortcuts (It will open a dialog Box)       
-> use hyphens '-' to represent & seperate keys, pressed at a time 
---------------------------------------------------------------------------
+
+> #### Note: You can add custom shortcuts by navigating to...            
+> #### Help > Edit Keyboard Shortcuts (It will open a dialog Box)       
+> #### use hyphens '-' to represent & seperate keys, pressed at a time 
 
 Thanks,
 > Sasham Trivedi (SK)
