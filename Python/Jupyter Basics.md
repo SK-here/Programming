@@ -1,6 +1,6 @@
-- @Author: Saksham Trivedi (**SK**)
- ### Jupyter Keyboard shortcuts
- ##### Theese shortcuts are majorly focused towards,
+### @Author: Saksham Trivedi (**SK**)
+## Jupyter Keyboard shortcuts
+##### Theese shortcuts are majorly focused towards,
 > - Linux Systems 
 > - Windows Systems
 >> Disclaimer: Above Shortcuts can be used with Mac Systems also if you are 
@@ -26,7 +26,7 @@ i.e.
 
 --------------------------------------------------------------------------
 
-#### Now, Command Mode  ( Press 'ESC' to activate)
+#### Command Mode  ( Press 'ESC' to activate)
 
 To take you into edit mode.
 > Enter
@@ -94,7 +94,7 @@ Open commannd palette.
                                 
 --------------------------------------------------------------------------
 
-#### Now, Edit mode (Press 'ENTER' to activate)
+#### Edit mode (Press 'ENTER' to activate)
 
 To Activate command mode.
 > ESC
