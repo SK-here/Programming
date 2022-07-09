@@ -1,5 +1,5 @@
-@author: SK
-@email: trivedisaksham@gmail.com
+@Author: **SK**
+ @Email:<_trivedisaksham@gmail.com_>
 --------------------------------------------------------------------------
 Below are few basic Jupyter Keyboard shortcuts
 Theese shortcuts are majorly focused towards,
