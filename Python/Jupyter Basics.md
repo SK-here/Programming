@@ -1,10 +1,12 @@
-@Author: **SK**
- @Email:<_trivedisaksham@gmail.com_>
+- @Author: Saksham Trivedi (**SK**)
 --------------------------------------------------------------------------
-Below are few basic Jupyter Keyboard shortcuts
-Theese shortcuts are majorly focused towards,
-> Linux Systems & Windows Systems
---------------------------------------------------------------------------
+> ### Jupyter Keyboard shortcuts
+> ##### Theese shortcuts are majorly focused towards,
+> - Linux Systems 
+> - Windows Systems
+>> Disclaimer: Above Shortcuts can be used with Mac Systems also if you are 
+>> familiar with the keyboard mapping compared to Windows systems.
+-------------------------------------------------------------------------
 
 Jupyter Has two modes i.e. 
 
@@ -12,7 +14,7 @@ Jupyter Has two modes i.e.
 
 --------------------------------------------------------------------------
 
-First We will talk about shortcuts in both mode
+##### First We will talk about shortcuts in both mode
 
 1. Shift + Enter --> Run the current cell & Select below
 
@@ -24,7 +26,7 @@ First We will talk about shortcuts in both mode
 
 --------------------------------------------------------------------------
 
-# Now, Command Mode  ( Press 'ESC' to activate)
+#### Now, Command Mode  ( Press 'ESC' to activate)
 
 To take you into edit mode.
 > Enter
@@ -92,8 +94,7 @@ Open commannd palette.
 > shortcut for the wanted operation.                                
 --------------------------------------------------------------------------
 
-
-# Now, Edit mode (Press 'ENTER' to activate)
+#### Now, Edit mode (Press 'ENTER' to activate)
 
 To Activate command mode.
 > ESC
@@ -144,9 +145,6 @@ Cursor Navigation.
 > Help > Edit Keyboard Shortcuts (It will open a dialog Box)       
 > use hyphens '-' to represent & seperate keys, pressed at a time 
 --------------------------------------------------------------------------
-
-> Disclaimer: Above Shortcuts can be used with Mac Systems also if you are 
-familiar with the keyboard mapping compared to Windows systems.
 
 Thanks,
 > Sasham Trivedi (SK)
