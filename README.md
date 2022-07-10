@@ -3,17 +3,14 @@
 
 This Direcrtory is used to
 
-> Store
-> Create 
-> Modify
-> Update
-> Delete
+> - Store
+> - Create 
+> - Modify
+> - Update
+> - Delete
 
-Source code & various related file to 
-the programming for diffrent 
-programming languages can be found here.
+Source code & various related file to the programming for the diffrent 
+programming languages.
 
 Thanks,
-> Saksham Trivedi 
- aka
 > SK
